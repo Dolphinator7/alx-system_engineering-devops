@@ -1,2 +1,1 @@
-#!/bin/bash
-mkdir -m 
+chmod -R ugo+x .
