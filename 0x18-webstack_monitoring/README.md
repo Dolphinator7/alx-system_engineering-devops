@@ -22,4 +22,4 @@ Set up a monitor that checks the number of write requests issued to the device p
 
 Create a new dashboard.
 Add at least 4 widgets to your dashboard. They can be of any type and monitor whatever you'd like. A dashboard on DataDog
-Create the answer file 2-setup_datadog which has the dashboard_id on the first line. Note: in order to get the id of your dashboard, you may need to use Datadog's API.
+Create the answer file 2-setup datadog which has the dashboard_id on the first line. Note: in order to get the id of your dashboard, you may need to use Datadog's API.
